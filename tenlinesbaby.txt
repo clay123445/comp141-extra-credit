@@ -1,0 +1,10 @@
+1
+2
+3
+dog
+cat
+mouse
+fox
+heir
+truffle
+black
